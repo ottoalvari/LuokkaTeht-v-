@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&family=Manjari:wght@100&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+html {background-color: #006888}
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+         font-family: 'Fredoka One';
+         /*background-image: url("RavintolaTaustakuva.jpg"); */
+         background-color: #95539d
+         
+    }
+
+p {line-height: 150%;
+    font-size: 18px;
+    letter-spacing: 1.0px;
+}
+
+main {
+    background-color: rgba(0, 0, 0,);
+   /* padding: 10px; reunuksen ja sisällön väli */
+    margin: 10px 10% 20px 15%; /*reunuksen ulkopuoli */
+   /* box-shadow: 2px 2px 2px gray; */
+    size: 30px 30px;
+}
+
+h1 {
+    font-size: 5vw;
+    font-family: 'Fredoka One';
+    color: rgb(13, 7, 26);
+    
+    text-align: center;
+}
+.container {
+    background-color: #7eba2d;
+   
+    
+}
+
